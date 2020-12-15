@@ -36,5 +36,5 @@ Dataset: Link: Coming soon...
 
 To get the annotation, please contact the authors. The dataset is only used for academic research.
 
-Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn)；Yiyang Gan (realgump@tju.edu.cn).
+Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn); Yiyang Gan (realgump@tju.edu.cn).
 
