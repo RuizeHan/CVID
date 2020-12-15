@@ -6,7 +6,7 @@ Dataset and Code of CVID (Human Identification and Interaction Detection in Cros
 ```
 @inproceedings{han2020cvid,
   title={Complementary-View Multiple Human Tracking}, 
-  author={Zhao, Jiewen and Han, Ruize and Gan Yiyang and Feng, Wei and Wan, Liang and Wang, Song},  
+  author={Zhao, Jiewen and Han, Ruize and Gan, Yiyang and Feng, Wei and Wan, Liang and Wang, Song},  
   year={2020},  
   booktitle={ACM International Conference on Multimedia}
 }
