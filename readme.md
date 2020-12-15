@@ -14,14 +14,14 @@ Dataset and Code of CVID (Human Identification and Interaction Detection in Cros
 
 ## Introduction
 
-<div align=center><img src="https://github.com/RuizeHan/CVID/tree/master/figs/example.jpg" width="500" height="500" alt="example"/><br/>
+<div align=center><img src="https://github.com/RuizeHan/CVID/blob/master/figs/example.jpg" width="500" height="500" alt="example"/><br/>
 <div align= justify>
 
 Compared to a single fixed camera, multiple moving cameras, e.g., those worn by people, can better capture the human interactive and group activities in a scene, by providing multiple, flexible and possibly complementary views of the involved people. In this setting the actual promotion of the activity detection is highly dependent on the effective correlation and collaborative analysis of multiple videos taken by different wearable cameras, which is highly challenging given the time-varying view differences across different cameras and mutual occlusion of people in each video. By focusing on two wearable cameras and the interactive activities that involve only two people, in this paper we develop a new approach that can simultaneously: (i) identify the same persons across the two videos, (ii) detect the interactive activities of interest, including their occurrence intervals and involved people, and (iii) recognize the category of each interactive activity. Specifically, we represent each video by a graph, with detected persons as nodes, and propose a unified Graph Neural Network (GNN) based framework to jointly solve the above three problems. A graph matching network is developed for identifying the same persons across the two videos and a graph inference network is then used for detecting the human interactions. We also build a new video dataset, which provides a benchmark for this study, and conduct extensive experiments to validate the effectiveness and superiority of the proposed method.
 
 ## Method
 
-![framework](https://github.com/RuizeHan/CVID/tree/master/figs/framework.jpg)
+![framework](https://github.com/RuizeHan/CVID/blob/master/figs/framework.jpg)
 <div align= justify>
   
 We provide an example to intuitively illustrate the proposed method as shown in above. Given a pair of synchronized video frames, we represent all the subjects in each frame as a complete graph by taking each subject as node and the relation between two subjects as edge. Then the initial graphs are first imported
@@ -36,5 +36,5 @@ Dataset: Link: Coming soon...
 
 To get the annotation, please contact the authors. The dataset is only used for academic research.
 
-Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn)； Yiyang Gan (realgump@tju.edu.cn).
+Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn)；Yiyang Gan (realgump@tju.edu.cn).
 
