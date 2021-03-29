@@ -32,7 +32,7 @@ matrix (note the change of edge thickness) and node representation (note the cha
 Next, we combine the updated node representations of the same subject from different videos (using the matching results) for the interaction category recognition in the right of (c). For this purpose, we use an LSTM function layer to capture the temporal information followed by a fully connected layer to predict the
 final interaction labels. 
 
-Dataset: Link: Coming soon...
+Dataset: Link: https://pan.baidu.com/s/1ma3ll4EUIUlFKqibqb_KZA @ CVID
 
 To get the annotation, please contact the authors. The dataset is only used for academic research.
 
