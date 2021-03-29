@@ -34,7 +34,7 @@ final interaction labels.
 
 Dataset: Link: https://pan.baidu.com/s/1ma3ll4EUIUlFKqibqb_KZA @ CVID
 
-To get the annotation, please contact the authors. The dataset is only used for academic research.
+To get the splitting and annotation, please contact the authors. The dataset is only used for academic research.
 
 Ruize Han (han_ruize@tju.edu.cn); Jiewen Zhao (zhaojw@tju.edu.cn); Yiyang Gan (realgump@tju.edu.cn).
 
